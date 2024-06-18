@@ -5,7 +5,7 @@ import  CanvasLoader  from '../Loader';
 
 
 const Computers = ( { isMobile } ) => {
-  const computer = useGLTF('./hms_london/scene.gltf')
+  const computer = useGLTF('./scene-v2.glb')
 
   return (
     <mesh>
@@ -61,7 +61,7 @@ const ComputersCanvas = () => {
     >
         <Suspense fallback={<CanvasLoader />} >
           <OrbitControls 
-          enableZoom={true} 
+          enableZoom={isMobile ?false :true}
           maxPolarAngle={Math.PI / 2} 
           minPolarAngle={Math.PI / 2} 
           />
