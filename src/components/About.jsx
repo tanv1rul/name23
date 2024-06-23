@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("","",0.1,1)}
         className="mt-4 text-secondary inline-block text-center text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit aut non, assumenda alias dicta accusantium tempore commodi cumque sit? Illum odit nam sit reprehenderit officiis vel, eligendi dolores quos quisquam! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint officia aut adipisci magni sed laudantium quae libero? Repellendus, laborum sed?
+        Embarking on a journey through the waves of innovation and engineering; we are excited to be a part of this journey of exploration. This field perfectly blends our passion for engineering with our fascination for the maritime world. We are eager to dive into the complexities of ship design, propulsion systems, and marine technologies, and to develop the necessary skills  to shape the future of maritime engineering.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 mx-auto justify-center">
