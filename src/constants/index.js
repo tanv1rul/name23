@@ -97,7 +97,7 @@ import * as images from "../assets"
       iconBg: "#383E56",
     },
     {
-      name: "Zubayer Normie",
+      name: "Zubayer Ahmed",
       college: "Birshreshtha Munsi Abdur Rouf Public College",
       icon: images.zubayer,
       iconBg: "#383E56",
