@@ -98,7 +98,7 @@ import * as images from "../assets"
     },
     {
       name: "Zubayer Ahmed",
-      college: "Birshreshtha Munsi Abdur Rouf Public College",
+      college: "He sucks ocean!!",
       icon: images.zubayer,
       iconBg: "#383E56",
     },
